@@ -40,10 +40,6 @@ odświeżane co 2 sekundy.
 
 ## Zdjęcia
 
-Zdjęcia projektu można dodać do katalogu [`images/`](images/). Gdy będą
-dodane, umieść je tutaj w galerii.
+![widok z przodu](images/przod.jpg)
+![widok z tyłu](images/tyl.jpg)
 
-## Licencja
-
-Projekt jest udostępniony na licencji Apache-2.0. Szczegóły znajdują się w
-pliku [`LICENSE`](LICENSE).
