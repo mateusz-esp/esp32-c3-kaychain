@@ -9,6 +9,7 @@ kształty. W górnej ramce wyświetlane są temperatura, wilgotność i ciśnien
 - ESP32-C3 DevKitM-1
 - OLED SSD1306 128x64 I2C
 - Moduł AHT20 + BMP280 I2C (4 piny)
+- Moduł TP4056 z rezystorem prog 33kΩ
 
 ### Połączenia I2C
 
