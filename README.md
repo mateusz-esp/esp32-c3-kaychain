@@ -44,4 +44,5 @@ odświeżane co 2 sekundy.
 
 ![widok z przodu](images/przod.jpg)
 ![widok z tyłu](images/tyl.jpg)
+![włączony ekran](images/wlaczone.jpg)
 
